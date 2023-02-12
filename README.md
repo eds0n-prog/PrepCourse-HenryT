@@ -1,2 +1,3 @@
-# PrepCourse-HenryT
-Este es un repositorio de prueba del modulo 2
+Edson Eleazar Gonzalez
+
+Este proyecto es prueba d ecomo crear repositorio
